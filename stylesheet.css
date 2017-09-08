@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-	font-family: "Courier New";
+	font-family: "Alegreya", serif;
 	font-size: 15px;
 	font-style: normal;
 	font-variant: normal;
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
 	text-align: right;
-	font-family: "Courier New";
+	font-family: "Alegreya", serif;
 	font-size: 15px;
 	font-style: normal;
 	font-variant: normal;
@@ -25,11 +25,10 @@ h2 {
 }
 
 h3 {
-	font-family: "Courier New";
+	font-family: "Alegreya", serif;
 	font-size: 15px;
-	font-style: bold;
+	font-style:bold;
 }
-
 h4 {
 	font-family: "FetteF";
 	font-size: 15px;
@@ -60,7 +59,7 @@ border: 2px solid rgba(0,250,10,0.5);
 #mainwrapper header {
 /*	Header */
 	overflow: "auto";
-	font-family: "Courier New";
+	font-family: "Alegreya", serif;
 	font-style: normal;
 	font-weight: 9pt;
 	padding-top:20px;
@@ -91,18 +90,18 @@ border: 2px solid rgba(0,250,10,0.5);
 /*CUSTOM CLASSES*/
 
 .italic {
-	font-family: "Courier New";
+	font-family: "Alegreya", serif;
 	font-style: italic;
 }
 
 .subtextheader {
-	font-family: 'Courier New';
+	font-family: 'Alegreya', serif;
 	font-style: bold;
 	font-size: 9px;
 	
 }
 .subtext {
-	font-family: "Courier New";
+	font-family: "Alegreya", serif;
 	font-style: normal;
 	font-size: 9px;
 	
@@ -272,8 +271,6 @@ nav a {
 }
 }
 
-
-/*im trying to make this larger and cant figure it out*/
 
 
 
