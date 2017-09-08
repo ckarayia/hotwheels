@@ -30,6 +30,12 @@ h3 {
 	font-style: bold;
 }
 
+h4 {
+	font-family: "FetteF";
+	font-size: 15px;
+
+}
+
 hr {
 border: 2px solid rgba(0,250,10,0.5);
 
