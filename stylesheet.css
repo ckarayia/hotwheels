@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-	font-family: "Alegreya", serif;
+	font-family: "Courier New", serif;
 	font-size: 15px;
 	font-style: normal;
 	font-variant: normal;
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
 	text-align: right;
-	font-family: "Alegreya", serif;
+	font-family: "Courier New", serif;
 	font-size: 15px;
 	font-style: normal;
 	font-variant: normal;
@@ -25,12 +25,12 @@ h2 {
 }
 
 h3 {
-	font-family: "Alegreya", serif;
+	font-family: "Courier New", serif;
 	font-size: 15px;
 	font-style:bold;
 }
 h4 {
-	font-family: "FetteF";
+	font-family: "UnifrakturCook", cursive;
 	font-size: 15px;
 
 }
@@ -59,7 +59,7 @@ border: 2px solid rgba(0,250,10,0.5);
 #mainwrapper header {
 /*	Header */
 	overflow: "auto";
-	font-family: "Alegreya", serif;
+	font-family: "Courier New", serif;
 	font-style: normal;
 	font-weight: 9pt;
 	padding-top:20px;
@@ -90,18 +90,18 @@ border: 2px solid rgba(0,250,10,0.5);
 /*CUSTOM CLASSES*/
 
 .italic {
-	font-family: "Alegreya", serif;
+	font-family: "Courier New", serif;
 	font-style: italic;
 }
 
 .subtextheader {
-	font-family: "Alegreya", serif;
+	font-family: "Courier New", serif;
 	font-style: bold;
 	font-size: 9px;
 	
 }
 .subtext {
-	font-family: "Alegreya", serif;
+	font-family: "Courier New", serif;
 	font-style: normal;
 	font-size: 9px;
 	
@@ -150,7 +150,7 @@ nav a:hover {
 	font-weight: bold;
 }
 
-p { font-family: "Alegreya", serif;
+p { font-family: "Courier New", serif;
 	font-size: 12px;
 	font-style: normal;
 	font-variant: normal;
@@ -159,6 +159,7 @@ p { font-family: "Alegreya", serif;
 
 
 }
+
 
 .imgwrap img {
 	width: 100%;
