@@ -95,7 +95,7 @@ border: 2px solid rgba(0,250,10,0.5);
 }
 
 .subtextheader {
-	font-family: 'Alegreya', serif;
+	font-family: "Alegreya", serif;
 	font-style: bold;
 	font-size: 9px;
 	
@@ -150,7 +150,7 @@ nav a:hover {
 	font-weight: bold;
 }
 
-p { font-family: "Courier New";
+p { font-family: "Alegreya", serif;
 	font-size: 12px;
 	font-style: normal;
 	font-variant: normal;
