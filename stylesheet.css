@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-	font-family: "Courier New", serif;
+	font-family: "Noto", serif;
 	font-size: 15px;
 	font-style: normal;
 	font-variant: normal;
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
 	text-align: right;
-	font-family: "Courier New", serif;
+	font-family: "Noto", serif;
 	font-size: 15px;
 	font-style: normal;
 	font-variant: normal;
@@ -25,7 +25,7 @@ h2 {
 }
 
 h3 {
-	font-family: "Courier New", serif;
+	font-family: "Noto", serif;
 	font-size: 15px;
 	font-style:bold;
 }
@@ -59,7 +59,7 @@ border: 2px solid rgba(0,250,10,0.5);
 #mainwrapper header {
 /*	Header */
 	overflow: "auto";
-	font-family: "Courier New", serif;
+	font-family: "Noto", serif;
 	font-style: normal;
 	font-weight: 9pt;
 	padding-top:20px;
@@ -90,18 +90,18 @@ border: 2px solid rgba(0,250,10,0.5);
 /*CUSTOM CLASSES*/
 
 .italic {
-	font-family: "Courier New", serif;
+	font-family: "Noto", serif;
 	font-style: italic;
 }
 
 .subtextheader {
-	font-family: "Courier New", serif;
+	font-family: "Noto", serif;
 	font-style: bold;
 	font-size: 9px;
 	
 }
 .subtext {
-	font-family: "Courier New", serif;
+	font-family: "Noto", serif;
 	font-style: normal;
 	font-size: 9px;
 	
@@ -130,7 +130,7 @@ border: 2px solid rgba(0,250,10,0.5);
 }
 
 .greek {
-	font-family: "Courier New";
+	font-family: "Noto";
 	font-style: normal;
 	font-size: 13px;
 }
@@ -150,7 +150,7 @@ nav a:hover {
 	font-weight: bold;
 }
 
-p { font-family: "Courier New", serif;
+p { font-family: "Noto", serif;
 	font-size: 12px;
 	font-style: normal;
 	font-variant: normal;
